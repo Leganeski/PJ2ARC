@@ -5,7 +5,7 @@ As a collaboration between 15 different authors, different parts of the system i
 
 Well, at least the KSP version of "realism". Everything might be ten times too dense compared to the real world, but at least it's exactly ten times too dense. It's consistent, which I believe is one reason why that one particular fact about the kerbal universe is so widely accepted.
 
-PJ2ARC is a collection of Module Manager patches that make the planets more "kerbalistic" while trying my best to preserve the original intentions of the authors. Everything is customizable, so you can choose which patches you want to apply and which you think are unhelpful or going too far.
+PJ2ARC is a collection of Module Manager patches that make the planets more "kerbalistic" while trying my best to preserve the original intentions of the authors. Everything is optional, so you can choose which patches you want to apply and which you think are unhelpful or going too far.
 
 The options are as follows:
 
