@@ -11,7 +11,9 @@ The options are as follows:
 
 ### Enabled by default
 #### Ollo density patch
-Each body in the Ollo system has an explanation describing how its mass is the product of its density and its volume, whis fails to consider the increased density of kerbal-scale objects. The volumes are correct, so the masses must be increased by a factor 10 to make the densities more realistic. The relative masses and SOIs remain unchanged, while orbital periods are decreased by sqrt(10).
+Each body in the Ollo system has an explanation describing how its mass is the product of its density and its volume, whis fails to consider the increased density of kerbal-scale objects. The volumes are correct, so the masses must be increased by a factor 10 to make the densities more realistic. The relative masses and SOIs remain unchanged, while the orbital periods of the moons are decreased by sqrt(10).
+
+Hadfield, made by the same contributor, also has its mass increased by 10 for the same reason.
 
 #### Asteroid density patch 
 Miscellaneous changes to densities of very small moons.
@@ -52,9 +54,9 @@ Jones needs to have its density decreased by 10. However, there are a number of 
 * Atmosphere height increased to 19 km so that it can thin out more smoothly.
 * Terrain altitude increased by about x4, to a new maxium altitude of 1000 m. This makes for taller but somewhat less steep hills.
 * Adiabatic index increased to 11. This is not realistic, but it maintains the distinctive feature of Jones that the speed of sound is just less than orbital velocity.
-* The increase to Jones's radius and terrain altitudes could destroy any craft saved in Jones's SOI before applying the patch.
+* Be very careful when loading craft saved in Jones's SOI before applying the patch, because the increase to Jones's radius and terrain altitude could break or destroy them.
 
 #### Selectable spoilers
-If you have already found [REDACTED], this patch lets you find it again more easily by clicking [REDACTED] in the [REDACTED].
+Allows you to find [REDACTED] again more easily by clicking [REDACTED] in the [REDACTED].
 
-(This is intentionally vague because it's a big spoiler.)
+(This is intentionally vague because it's a big spoiler. If you don't know what it means, don't apply the patch because that could spoil it.)
