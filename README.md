@@ -60,3 +60,7 @@ Jones needs to have its density decreased by 10. However, there are a number of 
 Allows you to find [REDACTED] again more easily by clicking [REDACTED] in the [REDACTED].
 
 (This is intentionally vague because it's a big spoiler. If you don't know what it means, don't apply the patch because that could spoil it.)
+
+
+### Delta-v table
+An [updated delta-v table](https://docs.google.com/spreadsheets/d/1891mTQLAGPMRzXrHoydCgmZXNDeHMkVCEddytleJYnE/edit?usp=sharing) is available, including all the changes to celestial body masses and orbit altitudes. For comparison, a table for PJ2 with no changes is available [here](https://docs.google.com/spreadsheets/d/1viA1pa6PS0U2Wi2cbCBXtvaUrr9k0LIK65WDvR5vL3U/edit?usp=sharing).
